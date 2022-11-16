@@ -18,3 +18,9 @@ $ git remote add origin https://github.com/vandeilson01/introduction_adianti_PHP
 
 $ git pull origin master
 ```
+**OU**
+
+```
+$ git clone https://github.com/vandeilson01/introduction_adianti_PHP.git
+
+```
